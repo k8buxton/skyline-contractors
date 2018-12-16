@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410px" height="80px" viewBox="0 0 410 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Elipses</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-96.000000, -778.000000)">
+            <g id="Elipses" transform="translate(96.000000, 778.000000)">
+                <circle id="Oval" fill="#722D3F" cx="40" cy="40" r="40"></circle>
+                <circle id="Oval" fill="#722D3F" cx="150" cy="40" r="40"></circle>
+                <circle id="Oval" fill="#722D3F" cx="260" cy="40" r="40"></circle>
+                <circle id="Oval" fill="#722D3F" cx="370" cy="40" r="40"></circle>
+                <g id="House" transform="translate(20.000000, 20.000000)" stroke="#CDCDCD" stroke-width="2">
+                    <path d="M2,21 L2,35.9991283 C2,36.5518945 2.44463086,37 3.00087166,37 L18,37 L18,19" id="Path" stroke-linecap="square"></path>
+                    <path d="M36,12 L36,36.004543 C36,36.5543187 35.5550537,37 35.0066023,37 L18,37 L18,2" id="Path" stroke-linecap="square"></path>
+                    <rect id="Rectangle" stroke-linecap="square" x="7" y="25" width="6" height="6" rx="1"></rect>
+                    <path d="M15,0 L38,12" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M17.25,12 L0,21" id="Path" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M28.9878543,25 L25.0121457,25 C24.4534413,25 24,25.448 24,26 L24,37 L30,37 L30,26 C30,25.448 29.5465587,25 28.9878543,25 L28.9878543,25 Z" id="Stroke-3" stroke-linecap="square"></path>
+                    <path d="M30,16 C30,17.657 28.657,19 27,19 C25.343,19 24,17.657 24,16 C24,14.343 25.343,13 27,13 C28.657,13 30,14.343 30,16 L30,16 Z" id="Stroke-4" stroke-linecap="square"></path>
+                    <path d="M29,6 L29,1 C29,0.448 29.448,0 30,0 L33,0 C33.552,0 34,0.448 34,1 L34,9" id="Stroke-5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M0,37 L38,37" id="Path-172" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <g id="Actual-Submarine" transform="translate(113.000000, 16.000000)" stroke="#CDCDCD" stroke-width="2">
+                    <path d="M66.8575226,19.8458523 L67,35 L66.8575226,19.8458523 Z M59.4406344,27.4229261 L66.9287613,27.4229261 L59.4406344,27.4229261 Z M30.4,5 L34.1440634,5 L30.4,5 Z M34.236148,5.5 L34.236148,10.5 L34.236148,5.5 Z M20.2675022,18.3085945 L20.1616939,35.4905336 L20.2675022,18.3085945 Z M46.9604229,12.2293214 C46.960423,11.6766331 46.512317,11.2285906 45.9577012,11.2285906 L34.0204836,11.2285906 C33.4666956,11.2285906 32.7319075,11.5634667 32.3658176,11.9923381 L27.7009606,17.4571812 L46.9604227,17.4571812 L46.9604229,12.2293214 Z" id="Imported-Layers" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-44" x="11" y="18" width="48" height="19" rx="9.5"></rect>
+                    <rect id="Rectangle-44" x="25" y="25" width="6" height="6" rx="3"></rect>
+                    <rect id="Rectangle-44" x="36" y="25" width="6" height="6" rx="3"></rect>
+                    <rect id="Rectangle-44" x="47" y="25" width="6" height="6" rx="3"></rect>
+                </g>
+                <g id="Leaf" transform="translate(352.000000, 19.000000)" fill="#CDCDCD">
+                    <path d="M35,26.4709717 C29.9773835,38.4451008 17.9449809,31.2010593 17.9449809,31.2010593 C14.253221,38.366266 8.1549806,42.9737217 1.11784818,43 C-0.349740317,43 -0.395317599,40.8627012 1.11784818,40.8627012 C6.98820217,40.8364229 12.1019733,37.1224282 15.4473458,31.2185781 C11.7008932,32.6113261 4.63641439,33.6624567 0.716768094,24.0183337 C10.6526157,20.0853534 15.2194594,24.9993889 16.969627,28.0038704 C17.8720572,25.8665716 18.5192546,23.5453249 18.9385656,21.0226115 C18.9385656,21.0226115 6.20427291,22.9409248 5.31095817,12.4296191 C16.1674669,8.23385618 19.2211448,19.1480953 19.2211448,19.1480953 C19.3669921,17.6852719 19.5219549,14.5406396 19.5219549,14.4705643 C19.5219549,14.4705643 9.8322246,8.01487065 16.0489659,0 C27.4068247,3.76655123 21.6458562,14.2253005 21.6458562,14.2253005 C21.6914335,14.3654512 21.6914335,16.3100428 21.6458562,17.1509472 C21.6458562,17.1509472 25.7660426,9.35506213 34.0793389,12.1142799 C33.6964897,23.8519047 21.1445061,21.4343043 21.1445061,21.4343043 C20.743426,23.8343858 20.123575,26.1118354 19.3214148,28.222856 C19.3214148,28.222856 26.8872437,20.1817071 35,26.4709717 Z" id="Path"></path>
+                </g>
+                <g id="3D" transform="translate(231.000000, 11.000000)" stroke="#CDCDCD" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <g id="Box" transform="translate(18.000000, 19.000000)">
+                        <path d="M1,17 L11,22" id="Path-172"></path>
+                        <path d="M11,0 L21,5" id="Path-172"></path>
+                        <path d="M1,5 L11,9.8" id="Path-172"></path>
+                        <path d="M1,5 L1,17" id="Path-172"></path>
+                        <path d="M11,10 L11,22" id="Path-172"></path>
+                        <path d="M21,5 L21,17" id="Path-172"></path>
+                        <path d="M21,17 L11,22" id="Path-172"></path>
+                        <path d="M11,0 L1.22222222,4.8" id="Path-172"></path>
+                        <path d="M21,5 L11.2222222,9.8" id="Path-172"></path>
+                    </g>
+                    <g id="Top-arrow" transform="translate(26.000000, 0.000000)">
+                        <path d="M3,1 L3,19" id="Path-172"></path>
+                        <path d="M3,0 L0,3" id="Path-172"></path>
+                        <path d="M3,0 L6,3" id="Path-172"></path>
+                    </g>
+                    <g id="Top-arrow" transform="translate(47.539363, 40.671731) rotate(119.000000) translate(-47.539363, -40.671731) translate(44.539363, 31.171731)">
+                        <path d="M3,1 L3,19" id="Path-172"></path>
+                        <path d="M3,0 L0,3" id="Path-172"></path>
+                        <path d="M3,0 L6,3" id="Path-172"></path>
+                    </g>
+                    <g id="Left-arrow" transform="translate(10.535750, 40.664364) rotate(-121.000000) translate(-10.535750, -40.664364) translate(7.535750, 31.164364)">
+                        <path d="M3,1 L3,19" id="Path-172"></path>
+                        <path d="M3,0 L0,3" id="Path-172"></path>
+                        <path d="M3,0 L6,3" id="Path-172"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

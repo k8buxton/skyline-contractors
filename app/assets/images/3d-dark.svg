@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="60px" viewBox="0 0 66 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>3D 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Services" transform="translate(-273.000000, -1594.000000)" stroke="#282828" stroke-width="3">
+            <g id="3D-2" transform="translate(273.000000, 1596.000000)">
+                <g id="Box" transform="translate(21.000000, 23.000000)">
+                    <path d="M1.13636364,20.0909091 L12.5,26" id="Path-172"></path>
+                    <path d="M12.5,0 L23.8636364,5.90909091" id="Path-172"></path>
+                    <path d="M1.13636364,5.90909091 L12.5,11.5818182" id="Path-172"></path>
+                    <path d="M1.13636364,5.90909091 L1.13636364,20.0909091" id="Path-172"></path>
+                    <path d="M12.5,11.8181818 L12.5,26" id="Path-172"></path>
+                    <path d="M23.8636364,5.90909091 L23.8636364,20.0909091" id="Path-172"></path>
+                    <path d="M23.8636364,20.0909091 L12.5,26" id="Path-172"></path>
+                    <path d="M12.5,0 L1.38888889,5.67272727" id="Path-172"></path>
+                    <path d="M23.8636364,5.90909091 L12.7525253,11.5818182" id="Path-172"></path>
+                </g>
+                <g id="Top-arrow" transform="translate(30.000000, 0.000000)">
+                    <path d="M3.5,1.21052632 L3.5,23" id="Path-172"></path>
+                    <path d="M3.5,0 L0,3.63157895" id="Path-172"></path>
+                    <path d="M3.5,0 L7,3.63157895" id="Path-172"></path>
+                </g>
+                <g id="Top-arrow" transform="translate(54.001174, 49.017801) rotate(119.000000) translate(-54.001174, -49.017801) translate(50.501174, 37.517801)">
+                    <path d="M3.4137931,1.20408163 L3.4137931,22.877551" id="Path-172"></path>
+                    <path d="M3.4137931,0 L0,3.6122449" id="Path-172"></path>
+                    <path d="M3.4137931,0 L6.82758621,3.6122449" id="Path-172"></path>
+                </g>
+                <g id="Left-arrow" transform="translate(11.997037, 48.857787) rotate(-121.000000) translate(-11.997037, -48.857787) translate(8.497037, 37.357787)">
+                    <path d="M3.4137931,1.20408163 L3.4137931,22.877551" id="Path-172"></path>
+                    <path d="M3.4137931,0 L0,3.6122449" id="Path-172"></path>
+                    <path d="M3.4137931,0 L6.82758621,3.6122449" id="Path-172"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

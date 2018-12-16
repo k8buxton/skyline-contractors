@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="39px" viewBox="0 0 40 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>House</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Services" transform="translate(-174.000000, -402.000000)" stroke="#CDCDCD" stroke-width="2">
+            <g id="House" transform="translate(175.000000, 403.000000)">
+                <path d="M2,21 L2,35.9991283 C2,36.5518945 2.44463086,37 3.00087166,37 L18,37 L18,19" id="Path" stroke-linecap="square"></path>
+                <path d="M36,12 L36,36.004543 C36,36.5543187 35.5550537,37 35.0066023,37 L18,37 L18,2" id="Path" stroke-linecap="square"></path>
+                <rect id="Rectangle" stroke-linecap="square" x="7" y="25" width="6" height="6" rx="1"></rect>
+                <path d="M15,0 L38,12" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M17.25,12 L0,21" id="Path" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28.9878543,25 L25.0121457,25 C24.4534413,25 24,25.448 24,26 L24,37 L30,37 L30,26 C30,25.448 29.5465587,25 28.9878543,25 L28.9878543,25 Z" id="Stroke-3" stroke-linecap="square"></path>
+                <path d="M30,16 C30,17.657 28.657,19 27,19 C25.343,19 24,17.657 24,16 C24,14.343 25.343,13 27,13 C28.657,13 30,14.343 30,16 L30,16 Z" id="Stroke-4" stroke-linecap="square"></path>
+                <path d="M29,6 L29,1 C29,0.448 29.448,0 30,0 L33,0 C33.552,0 34,0.448 34,1 L34,9" id="Stroke-5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,37 L38,37" id="Path-172" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

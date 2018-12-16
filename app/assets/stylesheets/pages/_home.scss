@@ -1,1 +1,165 @@
-// Specific CSS for your home-page
+.heading {
+  background-image: image-url('homepage-background2.svg');
+  background-size: cover;
+  height: calc(120vh);
+}
+.white-text {
+  font-family: "Avenir", "sans-serif";
+  color: white;
+  margin-top: 290px;
+  font-size: 40px;
+  letter-spacing: 9px;
+  font-weight: 500;
+}
+.white-text-two {
+  color: white;
+  margin-top: -15px;
+  font-size: 22px;
+  font-family: "Avenir", "sans-serif";
+  letter-spacing: 11px;
+  font-weight: 500;
+}
+.container {
+  margin-right: 0;
+  margin-left: 0;
+  width: 100vw;
+}
+.bricks {
+  background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 0%), url("bricks2.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+.bricks-content {
+  font-size: 22px;
+  font-family: "Avenir", "sans-serif";
+  width: 400px;
+  color: white;
+  letter-spacing: 3px;
+  z-index: 1000000;
+}
+.blue-background {
+  background-color: #021138;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  padding-top: 80px;
+  // position: absolute;
+}
+.blue-margin {
+  background-color: #021138;
+  height: 10vh;
+}
+.sub-text {
+  font-size: 14px;
+  margin-top: 30px;
+}
+.elipses {
+  z-index:-1;
+  position: relative;
+  bottom: -275px;
+}
+// .elipses-small {
+//   z-index:-1;
+//   position: relative;
+//   bottom: -255px;
+// }
+@media (max-width: 500px) {
+  .elipses-small {
+    z-index:-1;
+    position: relative;
+    bottom: -212px;
+  }
+}
+@media (min-width: 501px) {
+  .elipses-small {
+    z-index:-1;
+    position: relative;
+    bottom: -255px;
+  }
+}
+
+
+
+
+ // arrow animation
+ .arrow-wrapper {
+  width: 100%;
+  height: 20px;
+  margin-top: 160px;
+}
+.arrow-wrapper-two {
+  width: 100%;
+  height: 20px;
+  margin-top: -20px;
+}
+.arrow {
+  width: 38px;
+  height: 14px;
+  margin: auto;
+  letter-spacing: 3px;
+  // top: 350px;
+  // opacity: 0.5;
+  transition: ease 1s;
+  -webkit-animation: bouncey 1.6s linear infinite;
+          animation: bouncey 1.6s linear infinite;
+}
+.arrow ul {
+  list-style: none;
+}
+.arrow ul li {
+  width: 22px;
+  height: 2px;
+  background: white;
+}
+.arrow ul li:nth-child(1) {
+  left: 0;
+  top: 0;
+  position: absolute;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  border-radius: 0;
+}
+.arrow ul li:nth-child(2) {
+  left: 14px;
+  position: absolute;
+  border-radius: 0;
+  top: 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+@-webkit-keyframes bouncey {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+@keyframes bouncey {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+}
+
+
