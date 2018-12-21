@@ -2,7 +2,7 @@
   background: #021138;
   transition: all 0.3s ease;
   height: 100px;
-  padding: 20px 20px;
+  padding: 20px 40px;
   display: flex;
   align-items: center;
   z-index: 10000;
@@ -21,7 +21,7 @@
 }
 .navbar-item-right {
   cursor: pointer;
-  padding: 0 20px;
+  padding: 0 30px;
 }
 .navbar-link {
   color: white;

@@ -1,6 +1,6 @@
 .footer-dark-blue {
-  background-color: #1A3047;
-  height: 150px;
+  background-color: #021138;
+  height: 170px;
   width: 100vw;
   padding: 0px 0px 0px 20px;
   display: flex;
@@ -11,14 +11,15 @@
   color: white;
   letter-spacing: 1.5px;
   margin-bottom: 5px;
-  width: 80vw;
+  width: 75vw;
+  margin-left: 30px;
 }
 .footer-right {
   display: flex;
   flex-direction: column;
   justify-content: center;
   justify-content: flex-end;
-  width: 30vw;
+  width: 25vw;
   padding-right: 40px;
 }
 .viewranks {
@@ -40,6 +41,6 @@
 }
 .viewranks-logo {
   width: 155px;
-  // margin-left: 85px;
+  margin-top: 30px;
   margin-bottom: 10px;
 }

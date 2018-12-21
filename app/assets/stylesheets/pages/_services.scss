@@ -16,12 +16,12 @@
   .services-heading {
     background-image: image-url('services-background.svg');
     background-size: cover;
-    height: 170vh;
+    height: 150vh;
   }
 }
 .services-img {
-    height: 45px;
-    margin: 100px 0 30px 0;
+  height: 45px;
+  margin: 50px 0 30px 0;
 }
 a {
   text-decoration: underline;
@@ -45,16 +45,35 @@ a {
   // }
 }
 .wider-text {
-  width: 300px;
+  @media (max-width: 800px) {
+    width: 300px;
+  }
+  @media (min-width: 800px) {
+    width: 450px;
+  }
   color: black;
   margin: auto;
   font-size: 13px;
   letter-spacing: 1.5px;
   line-height: 1.6;
   font-weight: 500;
-  margin-bottom: 15px;
+  margin-bottom: 75px;
+  padding-bottom: 50px;
     &:hover {
     color: #021138;
+  }
+}
+.lighter-background {
+
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.3)), url('');
+  // background-color: rgba(255, 255, 255, 0.1);
+  @media (max-width: 800px) {
+    width: 350px;
+    margin: auto;
+  }
+  @media (min-width: 800px) {
+    width: 600px;
+    margin: auto;
   }
 }
 .row {
@@ -62,7 +81,7 @@ a {
 }
 .services-background {
   background-image: linear-gradient(-225deg, rgba(150, 150, 150, 0.6) 0%, rgba(240, 240, 240, 0.6) 0%);
-  padding-bottom: 60px;
+  padding: 75px 0;
 }
 .services-link {
     &:hover {
