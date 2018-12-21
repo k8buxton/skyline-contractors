@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="11px" viewBox="0 0 43 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Portfolio</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Avenir-Medium, Avenir" font-weight="400">
+        <g id="Logo" transform="translate(-23.000000, -4.000000)" fill="#FFFFFF">
+            <g id="Logo-Portfolio" transform="translate(20.000000, 3.000000)">
+                <text id="Construction" font-size="4" letter-spacing="1.78999996">
+                    <tspan x="2.98300021" y="11">Constructio</tspan>
+                    <tspan x="43.7929998" y="11">n</tspan>
+                </text>
+                <text id="Portfolio" font-size="7" letter-spacing="2.01999998">
+                    <tspan x="2.67200008" y="7">Portfoli</tspan>
+                    <tspan x="42.1699999" y="7">o</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
