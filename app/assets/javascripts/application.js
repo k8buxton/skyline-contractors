@@ -19,6 +19,24 @@ for (let item of anchorlinks) { // relitere
 }
 
 
+// for AOS
+
 AOS.init();
+
+
+// transparent to coloured navbar: https://codepen.io/sonorangirl/pen/XmRBjq
+
+$(document).ready(function() {
+        // Transition effect for navbar
+        $(window).scroll(function() {
+          // checks if window is scrolled more than 20px, adds/removes solid class
+          if($(this).scrollTop() > 20) {
+              $('.navbar').addClass('solid');
+          } else {
+              $('.navbar').removeClass('solid');
+          }
+        });
+});
+
 
 
