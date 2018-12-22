@@ -1,15 +1,28 @@
 .heading {
   background-image: image-url('homepage-background2.svg');
   background-size: cover;
+// @media (max-width: 1024px) {
   height: calc(120vh);
+//   }
+// @media (min-width: 1024px) {
+//   height: calc(100vh);
+//   }
 }
 .white-text {
   font-family: "Avenir", "sans-serif";
   color: white;
-  margin-top: 290px;
   font-size: 40px;
   letter-spacing: 10px;
   font-weight: 500;
+  @media (max-width: 1024px) {
+  margin-top: 290px;
+  }
+// @media (min-width: 1024px) {
+//   margin-top: 350px;
+//   }
+@media (min-width: 1024px) {
+  margin-top: 350px;
+  }
 }
 .white-text-two {
   color: white;
@@ -25,7 +38,7 @@
   width: 100vw;
 }
 .bricks {
-  background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 0%), url("bricks2.png");
+  background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 0%), url("b&wbricks.jpg");
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -72,23 +85,18 @@
   position: relative;
   bottom: -50px;
 }
-// .elipses-small {
-//   z-index:-1;
-//   position: relative;
-//   bottom: -255px;
-// }
 @media (max-width: 500px) {
   .elipses-small {
     z-index:-1;
     position: relative;
-    bottom: -190px;
+    bottom: -155px;
   }
 }
 @media (min-width: 501px) {
   .elipses-small {
     z-index:-1;
     position: relative;
-    bottom: -255px;
+    bottom: -50px;
   }
 }
 
@@ -169,5 +177,18 @@
             transform: translateY(0);
   }
 }
-
-
+.four-services {
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  transition: transform .2s;
+  margin-top: 6px;
+  text-decoration: none;
+}
+.four-services:hover {
+  font-size: 15px;
+  text-decoration: underline;
+  color: white;
+}
+a:visited {
+  color: white;
+}
