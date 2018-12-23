@@ -1,12 +1,7 @@
 .heading {
   background-image: image-url('homepage-background2.svg');
   background-size: cover;
-// @media (max-width: 1024px) {
   height: calc(120vh);
-//   }
-// @media (min-width: 1024px) {
-//   height: calc(100vh);
-//   }
 }
 .white-text {
   font-family: "Avenir", "sans-serif";
@@ -17,9 +12,6 @@
   @media (max-width: 1024px) {
   margin-top: 290px;
   }
-// @media (min-width: 1024px) {
-//   margin-top: 350px;
-//   }
 @media (min-width: 1024px) {
   margin-top: 350px;
   }
@@ -70,7 +62,6 @@
   text-align: center;
   justify-content: space-around;
   padding-top: 80px;
-  // position: absolute;
 }
 .blue-margin {
   background-color: #021138;
