@@ -3,9 +3,13 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "ajv": "^6.10.0",
     "aos": "^2.3.4",
-    "bootstrap": "3",
-    "jquery": "^3.3.1"
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "js-yaml": "^3.13.1",
+    "popper.js": "^1.15.0",
+    "tar": "^4.4.10"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
