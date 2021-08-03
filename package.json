@@ -9,7 +9,7 @@
     "jquery": "^3.4.1",
     "js-yaml": "^3.13.1",
     "popper.js": "^1.15.0",
-    "tar": "^4.4.10"
+    "tar": "^4.4.15"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
